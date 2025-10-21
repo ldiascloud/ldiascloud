@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Eu sou o Lucas Dias,<br><br>- 🔭 Atualmente, tenho estudado duas principais stacks de tecnologias:<br>· 📓 desenvolvimento web, com HTML, CSS, Javascript e React.<br>· 🌨️ DevOps, com Azure Cloud, Powershell, Virtualização e fins.<br><br>🦉 Fique a vontade para entrar em contato nas redes sociais ou através do meu portfólio!</p>
+<p align="left">Eu sou o Lucas Dias,<br><br>- 🔭 Atualmente, tenho estudado duas principais stacks de tecnologias:<br>· 📓 desenvolvimento web, com HTML, CSS, Javascript e React.<br>· 🌨️ DevOps, com Azure Cloud, Powershell, Virtualização e afins.<br><br>🦉 Fique a vontade para entrar em contato nas redes sociais ou através do meu portfólio!</p>
 
 ###
 
